@@ -23,7 +23,7 @@ My strongest work is pinned to this profile — full project catalog below ⬇�
 | Project | Description |
 |---|---|
 | [Nmap-Network-Assessment](https://github.com/Dashanejames1/Nmap-Network-Assessment) | Network reconnaissance scan of a lab target using Nmap |
-| [Nmap-Network-Assessment]((https://github.com/Dashanejames1/Nmap-Scan-Types) | Network reconnaissance scan of a lab target using Nmap |
+| [Nmap-Scan-Types](https://github.com/Dashanejames1/Nmap-Scan-Types) | Network reconnaissance scan of a lab target using Nmap |
 *(More labs added weekly — Wireshark, Splunk, and Active Directory labs coming as I move through CySA+ prep.)*
 
 ## 🔬 Research
