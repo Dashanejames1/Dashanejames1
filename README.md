@@ -36,7 +36,7 @@ My strongest work is pinned to this profile — full project catalog below ⬇�
 👉 [Python-Tools](https://github.com/DashaneJames/Python-Tools)
 
 ## 🏠 Home Lab
-👉 [Home-Lab](https://github.com/DashaneJames/Home-Lab) — VMware lab running Kali Linux + Metasploitable 2 + Windows Server
+👉 [Home-Lab](https://github.com/DashaneJames1/Home-Lab) — VMware lab running Kali Linux + Metasploitable 2 + Windows Server
 
 ## 📫 Contact Info
 - LinkedIn: [add your URL here]
