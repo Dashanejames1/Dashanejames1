@@ -3,7 +3,7 @@
 **Cybersecurity Analyst (In Training) | Senior Field Service Technician | Home Lab Builder**
 
 ## 👤 About Me
-10+ years managing IT and endpoint compliance in a highly regulated enterprise (gaming industry) environment, now transitioning that into SOC Analyst / IT Security Analyst work.
+10+ years managing IT and endpoint compliance in a highly regulated enterprise environment (Casino Gaming industry), now transitioning that into SOC Analyst / IT Security Analyst work.
 
 - 🎓 B.S. in Information Technology — SUNY Canton
 - 🏢 Founder, Zero Trust Cyber Security Awareness Brand
